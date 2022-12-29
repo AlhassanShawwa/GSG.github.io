@@ -45,7 +45,7 @@ header ul li:hover{
 }
 /* End Header */
 .landing{
-    background-image: url('./images/5429921.jpg');
+    background-image: url('./5429921.jpg');
     height: 713px;
     background-size: cover;
     padding-top: 100px;
@@ -93,7 +93,7 @@ font-size: 30px;
 
 /* starting About */
 .About{
-    background-image: url('./images/1455621.jpg');
+    background-image: url('./1455621.jpg');
     background-size: cover;
     color: white;
     padding: 50px;
@@ -144,7 +144,7 @@ font-size: 30px;
     width: 100%;
     display: flex;
     justify-content: space-between;
-    background-image: url('./images/1455621.jpg');
+    background-image: url('./1455621.jpg');
     padding: 50px;
 }
 .experiance .container .title p:first-child{
@@ -199,7 +199,7 @@ font-size: 30px;
 
 /* Start Contact */
 .contact{
-    background-image: url('./images/1b06b87d5f493f93130ffcccdac578bf.jpg');
+    background-image: url('./1b06b87d5f493f93130ffcccdac578bf.jpg');
     background-size: cover;
     position: relative;
     padding: 50px;
